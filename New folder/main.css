@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+}
+.canva{
+    background-color: rgb(48, 45, 51);
+    position: fixed;
+}
+div{
+    position: fixed;
+}
